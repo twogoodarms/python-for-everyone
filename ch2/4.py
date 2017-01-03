@@ -1,0 +1,10 @@
+first = input("enter ur 1st number: ")
+second= input("enter ur 2nd number: ")
+
+print(first + second)
+print(second - first)
+print(first * second)
+print( (first + second) / 2)
+print(abs(second - first))
+print(max(second, first))
+print(min(first, second))
